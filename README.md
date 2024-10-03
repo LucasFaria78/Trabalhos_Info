@@ -28,3 +28,14 @@ Arquivo - [Trabalho 1 - 29ago24.xlsx](https://github.com/LucasFaria78/Trabalhos_
 
 Arquivo - [Salarios Prefeitura SJC -R2.xlsx](https://github.com/LucasFaria78/Trabalhos_Info/blob/main/Salarios%20Prefeitura%20SJC%20-R2.xlsx "Salarios Prefeitura SJC -R2.xlsx")
 
+**6º - Power BI**
+
+- Elaborar um arquivo que contenha INDICADOR e link  para uma figura representativa desse indicador.
+- Fazer o uploading do arquivo construído e do arquivo anexo para o PowerBI.
+- Fazer o modelo dos dois arquivos no PowerBI, relacionando-os pelo indicador.
+- Fazer a categorização de dados, se necessário.
+- Gerar, no mínimo, duas visualizações via Power BI, incluindo as imagens do primeiro item 
+- Postar no seu Github o arquivo construído
+- Postar o link de seu Github aqui.
+
+Arquivo - [Salarios Prefeitura SJC -R2.xlsx](https://github.com/LucasFaria78/Trabalhos_Info/blob/main/Trabalho Power BI - 03out24.pbix")
