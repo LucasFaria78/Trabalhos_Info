@@ -38,4 +38,4 @@ Arquivo - [Salarios Prefeitura SJC -R2.xlsx](https://github.com/LucasFaria78/Tra
 - Postar no seu Github o arquivo construído
 - Postar o link de seu Github aqui.
 
-Arquivo - [Salarios Prefeitura SJC -R2.xlsx](https://github.com/LucasFaria78/Trabalhos_Info/blob/main/Trabalho Power BI - 03out24.pbix")
+Arquivo - [Trabalho Power BI - 03out24](https://github.com/LucasFaria78/Trabalhos_Info/blob/main/Trabalho%20Power%20BI%20-%2003out24.pbix)
