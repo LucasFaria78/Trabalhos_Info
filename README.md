@@ -48,7 +48,7 @@ Arquivo - [Trabalho Power BI - 03out24](https://github.com/LucasFaria78/Trabalho
 -     https://www.governoaberto.sp.gov.br/
 -     https://2013-2016-indicadores.cidadessustentaveis.org.br/br/SP/sao-jose-dos-campos
 -     https://www.sjc.sp.gov.br/servicos/governanca/portal-da-transparencia/
--     ou outro de sua preferência, e fazer o download de um  arquivo.
+  ou outro de sua preferência, e fazer o download de um  arquivo.
 
 - Elaborar 5 (cinco) perguntas sobre os dados coletados.
 - Elaborar visualizações  via Power BI que possibilite responder às perguntas elaboradas no item anterior. Colocar título em seu dashboard.
