@@ -28,7 +28,7 @@ Arquivo - [Trabalho 1 - 29ago24.xlsx](https://github.com/LucasFaria78/Trabalhos_
 
 Arquivo - [Salarios Prefeitura SJC -R2.xlsx](https://github.com/LucasFaria78/Trabalhos_Info/blob/main/Salarios%20Prefeitura%20SJC%20-R2.xlsx "Salarios Prefeitura SJC -R2.xlsx")
 
-**6º - Power BI**
+**6º - Power BI - 1º Trabalho**
 
 - Elaborar um arquivo que contenha INDICADOR e link  para uma figura representativa desse indicador.
 - Fazer o uploading do arquivo construído e do arquivo anexo para o PowerBI.
@@ -37,5 +37,22 @@ Arquivo - [Salarios Prefeitura SJC -R2.xlsx](https://github.com/LucasFaria78/Tra
 - Gerar, no mínimo, duas visualizações via Power BI, incluindo as imagens do primeiro item 
 - Postar no seu Github o arquivo construído
 - Postar o link de seu Github aqui.
+
+Arquivo - [Trabalho Power BI - 03out24](https://github.com/LucasFaria78/Trabalhos_Info/blob/main/Trabalho%20Power%20BI%20-%2003out24.pbix)
+
+
+**7º - Power BI - 2º Trabalho (07out24)**
+
+- Acessar UM dos repositórios a seguir, que contenha  dados abertos
+    https://dados.gov.br/home
+    https://www.governoaberto.sp.gov.br/
+    https://2013-2016-indicadores.cidadessustentaveis.org.br/br/SP/sao-jose-dos-campos
+    https://www.sjc.sp.gov.br/servicos/governanca/portal-da-transparencia/
+    ou outro de sua preferência, e fazer o download de um  arquivo.
+
+- Elaborar 5 (cinco) perguntas sobre os dados coletados.
+- Elaborar visualizações  via Power BI que possibilite responder às perguntas elaboradas no item anterior. Colocar título em seu dashboard.
+- Postar o arquivo Power BI em seu Github.
+- Atualizar o Readme de seu Github de forma a refletir todos os trabalhos realizados em Informática, com inclusão de capturas de imagens.
 
 Arquivo - [Trabalho Power BI - 03out24](https://github.com/LucasFaria78/Trabalhos_Info/blob/main/Trabalho%20Power%20BI%20-%2003out24.pbix)
