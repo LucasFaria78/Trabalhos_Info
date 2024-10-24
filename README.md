@@ -57,9 +57,9 @@ Arquivo - [Trabalho Power BI - 03out24](https://github.com/LucasFaria78/Trabalho
 
 Arquivo - [Trabalho Power BI - 03out24](https://github.com/LucasFaria78/Trabalhos_Info/blob/main/Trabalho%20Power%20BI%20-%2010out24.pbix)
 
-**8º - Power BI - Tarefa 3: Power BI fórmulas DAX e KPI**
+**8º - Power BI - Tarefa 3: Power BI fórmulas DAX e KPI (22out24)**
 
 - Utilizando o arquivo anexado, produza  um dashboard referente ao KPI sobre o total de itens vendidos.
 Poste em seu Github.
 
-Arquivo - [Trabalho Power BI - 03out24](https://github.com/LucasFaria78/Trabalhos_Info/blob/main/Trabalho%20Power%20BI%20-%2010out24.pbix)
+Arquivo - [Trabalho Power BI - 22out24](https://github.com/LucasFaria78/Trabalhos_Info/blob/main/filiaisDAX%20-%20Tarefa3%20(22out24).pbix)
