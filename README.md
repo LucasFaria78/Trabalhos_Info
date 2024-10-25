@@ -63,3 +63,23 @@ Arquivo - [Trabalho Power BI - 03out24](https://github.com/LucasFaria78/Trabalho
 Poste em seu Github.
 
 Arquivo - [Trabalho Power BI - 22out24](https://github.com/LucasFaria78/Trabalhos_Info/blob/main/filiaisDAX%20-%20Tarefa3%20(22out24).pbix)
+
+**9º - Power BI - Tarefa 4: Power BI, dados abertos, fórmulas DAX, KPI e Github**
+
+Instruções
+1. Utilizando o arquivo pbix construído na  tarefa 2, resultado da coleta e análise de dados abertos de um dos repositórios a seguir, 
+  - https://dados.gov.br/home
+  - https://www.governoaberto.sp.gov.br/
+  - https://2013-2016-indicadores.cidadessustentaveis.org.br/br/SP/sao-jose-dos-campos
+  - https://www.sjc.sp.gov.br/servicos/governanca/portal-da-transparencia/
+    
+Elaborar análise de, pelo menos, três (3) metas a serem atingidas .
+
+2. Elaborar visualizações de KPI  via Power BI que possibilite responder se foram atingidas as metas elaboradas no item anterior.  Colocar título em seu dashboard,
+
+3.   Postar o arquivo Power BI em seu Github.
+
+4. Atualizar o Readme de seu Github de forma a refletir todos os trabalhos realizados em Informática, com inclusão de capturas de imagens.
+
+Arquivo - [Trabalho Power BI - 22out24](https://github.com/LucasFaria78/Trabalhos_Info/blob/main/filiaisDAX%20-%20Tarefa3%20(22out24).pbix)
+
