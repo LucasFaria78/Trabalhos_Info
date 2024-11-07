@@ -81,5 +81,5 @@ Elaborar análise de, pelo menos, três (3) metas a serem atingidas .
 
 4. Atualizar o Readme de seu Github de forma a refletir todos os trabalhos realizados em Informática, com inclusão de capturas de imagens.
 
-Arquivo - [Trabalho Power BI - 22out24](https://github.com/LucasFaria78/Trabalhos_Info/blob/main/Trabalho%20Power%20BI%20-%2026out24.pbix)
+Arquivo - [Trabalho Power BI - 26out24](https://github.com/LucasFaria78/Trabalhos_Info/blob/main/Trabalho%20Power%20BI%20-%2026out24.pbix)
 
