@@ -68,8 +68,8 @@ Arquivo - [Trabalho Power BI - 22out24](https://github.com/LucasFaria78/Trabalho
 
 Instruções
 1. Utilizando o arquivo pbix construído na  tarefa 2, resultado da coleta e análise de dados abertos de um dos repositórios a seguir, 
-  - https://dados.gov.br/home
-  - https://www.governoaberto.sp.gov.br/
+-    https://dados.gov.br/home
+-  https://www.governoaberto.sp.gov.br/
   - https://2013-2016-indicadores.cidadessustentaveis.org.br/br/SP/sao-jose-dos-campos
   - https://www.sjc.sp.gov.br/servicos/governanca/portal-da-transparencia/
     
