@@ -83,3 +83,12 @@ Elaborar análise de, pelo menos, três (3) metas a serem atingidas .
 
 Arquivo - [Trabalho Power BI - 26out24](https://github.com/LucasFaria78/Trabalhos_Info/blob/main/Trabalho%20Power%20BI%20-%2026out24.pbix)
 
+
+**10º - Power APPs e IA generativa**
+
+Instruções
+Usando o Copilot,, crie um aplicativo via Power APPS.
+Em seguida, grave um pequeno vídeo do App funcionando  ou gif animado, mostrando o funcionamento do aplicativo.
+Poste o resultado no seu Github. 
+
+Arquivo - [Trabalho Power BI - 26out24](https://github.com/LucasFaria78/Trabalhos_Info/blob/main/Trabalho%20Power%20BI%20-%2026out24.pbix)
