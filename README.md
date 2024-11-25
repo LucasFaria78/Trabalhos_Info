@@ -91,4 +91,4 @@ Usando o Copilot,, crie um aplicativo via Power APPS.
 Em seguida, grave um pequeno vídeo do App funcionando  ou gif animado, mostrando o funcionamento do aplicativo.
 Poste o resultado no seu Github. 
 
-Arquivo - [Trabalho Power BI - 26out24](https://github.com/LucasFaria78/Trabalhos_Info/blob/main/Trabalho%20Power%20BI%20-%2026out24.pbix)
+Arquivo - [Trabalho Power App - 25nov24](https://github.com/LucasFaria78/Trabalhos_Info/blob/main/Video%20Loja%20-%20Power%20App.mp4)
