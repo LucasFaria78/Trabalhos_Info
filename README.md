@@ -105,4 +105,4 @@ b) Construa um dashboard com três visualizações diferentes, correspondente ao
 c) Suba para o seu Github o arquivo gerado
 d) Tire um print do dashboard  que você gerou  e poste-o aqui.
 
-Arquivo - [Trabalho Power App - 25nov24](https://github.com/LucasFaria78/Trabalhos_Info/blob/main/Video%20Loja%20-%20Power%20App.mp4)
+Arquivo - [Trabalho Power App - 25nov24](https://github.com/LucasFaria78/Trabalhos_Info/blob/main/Prova%2026nov24%20-%20R2.pbix)
