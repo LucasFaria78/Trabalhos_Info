@@ -92,3 +92,17 @@ Em seguida, grave um pequeno vídeo do App funcionando  ou gif animado, mostrand
 Poste o resultado no seu Github. 
 
 Arquivo - [Trabalho Power App - 25nov24](https://github.com/LucasFaria78/Trabalhos_Info/blob/main/Video%20Loja%20-%20Power%20App.mp4)
+
+
+**PROVA - 26novembro24**
+
+Acesse o link:
+
+https://dados.gov.br/dados/conjuntos-dados/distribuidores-de-combustiveis-liquidos
+
+a) Obtenha um conjunto de dados de sua escolha. 
+b) Construa um dashboard com três visualizações diferentes, correspondente aos dados coletados. 
+c) Suba para o seu Github o arquivo gerado
+d) Tire um print do dashboard  que você gerou  e poste-o aqui.
+
+Arquivo - [Trabalho Power App - 25nov24](https://github.com/LucasFaria78/Trabalhos_Info/blob/main/Video%20Loja%20-%20Power%20App.mp4)
